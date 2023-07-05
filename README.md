@@ -1,2 +1,0 @@
-# webdevelopment
-Gemba responsive website
